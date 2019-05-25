@@ -50,10 +50,10 @@ dz.log("Auth Token : " + str(dz.authToken)) #ASIST7
 #==============================================================================================================
 oepoll = OEPoll(cl)
 call = cl
-creator = ["ub1c5a71f27b863896e9d44bea857d35b","ufdc20b3a00b5e8f31e4f91017eb361b0"]
-owner = ["ub1c5a71f27b863896e9d44bea857d35b","ufdc20b3a00b5e8f31e4f91017eb361b0"]
-admin = ["ub1c5a71f27b863896e9d44bea857d35b","ufdc20b3a00b5e8f31e4f91017eb361b0"]
-staff = ["ufdc20b3a00b5e8f31e4f91017eb361b0"]
+creator = ["u6a2f92424d51a457530383b73511e504"]
+owner = ["u6a2f92424d51a457530383b73511e504",]
+admin = ["u6a2f92424d51a457530383b73511e504",]
+staff = ["u6a2f92424d51a457530383b73511e504"]
 Drop_Xv = "u58b4ebbe0cc52d5389669c0957de9e57" #ID_DROPING_BOTS
 Xv_WIN = "u58b4ebbe0cc52d5389669c0957de9e57" #ID_WINDOWS_XP
 Xv_LAN = "u58b4ebbe0cc52d5389669c0957de9e57" #ID_SERVER_LAN
